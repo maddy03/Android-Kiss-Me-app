@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+		android:id="@+id/Aboutme"
+		android:title="About Me"
+		android:icon="@android:drawable/ic_menu_gallery" />
+	<item 
+		android:id="@+id/exitt"
+		android:title="Exit"
+		android:icon="@android:drawable/ic_menu_slideshow" />
+<!--  
+  Find a full list of android package drawable resources here:
+  http://androiddrawableexplorer.appspot.com/
+-->
+
+</menu>
